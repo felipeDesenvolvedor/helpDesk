@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop", "view\Desktop.csproj", "{7E0ACDED-FD0B-4A8C-853C-D9F802DEC323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "model\Model.csproj", "{AD0A84AD-2C8D-4A0E-9F83-CD89D4A0E1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{374A0261-C01A-4C17-81D3-3B80A2237CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0ACDED-FD0B-4A8C-853C-D9F802DEC323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0ACDED-FD0B-4A8C-853C-D9F802DEC323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0ACDED-FD0B-4A8C-853C-D9F802DEC323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0ACDED-FD0B-4A8C-853C-D9F802DEC323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0A84AD-2C8D-4A0E-9F83-CD89D4A0E1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0A84AD-2C8D-4A0E-9F83-CD89D4A0E1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0A84AD-2C8D-4A0E-9F83-CD89D4A0E1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0A84AD-2C8D-4A0E-9F83-CD89D4A0E1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374A0261-C01A-4C17-81D3-3B80A2237CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374A0261-C01A-4C17-81D3-3B80A2237CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374A0261-C01A-4C17-81D3-3B80A2237CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374A0261-C01A-4C17-81D3-3B80A2237CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996CF9FB-C4B4-4C77-86F0-DF98737CCDB9}
+	EndGlobalSection
+EndGlobal
